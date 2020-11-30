@@ -681,7 +681,6 @@ p {
 }
 
 .tight-width-whitespace {
-    max-width: 600px;
     margin: auto auto auto auto;
 }
 
@@ -700,7 +699,6 @@ p {
 }
 
 .social {
-    max-width: 400px;
     margin: auto auto auto auto;
 }
 
@@ -717,7 +715,6 @@ h3 {
 }
 
 .med-width-whitespace {
-    max-width: 800px;
     margin: auto auto auto auto;
     box-shadow: 0px 0px 0px #000000;
 }
