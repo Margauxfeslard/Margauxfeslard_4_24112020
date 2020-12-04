@@ -31,11 +31,8 @@ a:hover {
     list-style: none;
 }
 
-.footer > li {
-    height: 48px;
-}
-
 .footer > li > a {
+    width: 40%;
     font-size: 16px;
 }
 
