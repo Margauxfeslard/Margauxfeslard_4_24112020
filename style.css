@@ -27,6 +27,18 @@ a:hover {
     background: #FFFFFF url("img/pageload-spinner.gif") no-repeat center center;
 }
 
+.footer{
+    list-style: none;
+}
+
+.footer > li {
+    height: 48px;
+}
+
+.footer > li > a {
+    font-size: 16px;
+}
+
 .bloc {
     width: 100%;
     clear: both;
@@ -699,6 +711,7 @@ p {
 }
 
 .social {
+    max-width: 400px;
     margin: auto auto auto auto;
 }
 
