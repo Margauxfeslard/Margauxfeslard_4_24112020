@@ -1036,6 +1036,14 @@ h4 {
         padding-left: 0;
         padding-right: 0;
     }
+
+    .bg-banniere {
+        background-image: url("img/la-chouette-agence-banniere-sm-min.jpg");
+    }
+
+    .bg-presentation {
+        background-image: url("img/image-de-presentation-sm-min.jpg");
+    }
 }
 
 @media (max-width: 767px) {
