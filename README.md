@@ -1,17 +1,19 @@
-# Projet La Chouette Agence 
-### Optimiser un site web existant
+# La Chouette Agence
 
- - Audit du site pour detecter les erreurs
- - Modification de ces dernières
- - Edition d'un rapport sur les différences
- 
+## Table of contents
+* [General info](#general-info)
+* [Technologies](#technologies)
+* [Setup](#setup)
 
-## Techno utilisées 
+## General info
+This project is the 4th project of Developper Web Junior program (OpenClassroom)
+	
+## Technologies
+Project is created with:
+* HTML5
+* CSS
+* FontAwesome
+* Bootstrap
 
-<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-
-## Validation
-
- <img src="https://img.shields.io/w3c-validation/default?targetUrl=https%3A%2F%2Fjonathanchosson.github.io%2FJonathanChosson_4_13112020%2F" />
+## Setup
+Github Pages : https://margauxfeslard.github.io/MargauxFeslard_4_24112020/
